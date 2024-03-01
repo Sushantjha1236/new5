@@ -1,5 +1,5 @@
 # Git-Command-Cheat-Sheet
-
+Git has turned out to be one of the leading Version Control System in today's time. Till now, we have developed an understanding of Version Control System. We have also discussed different types of Version Control System. One of the most popular Version Control System is Git. We will be learning about it in this series. Let us start with learning
 git	version >= 2.7.4
 Basic git setup :
 Git config:
